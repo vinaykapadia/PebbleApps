@@ -1,0 +1,27 @@
+{
+    "author": "VKapadia.com",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "vk-simple-watchface",
+    "pebble": {
+        "displayName": "VK Simple Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "moddable",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery",
+            "gabbro"
+        ],
+        "uuid": "6f9c18bf-3984-41ec-bd06-78fcc25f2a04",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
